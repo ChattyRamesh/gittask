@@ -1,4 +1,4 @@
 java 11 version
 postgresql
 tomcat 9
-nginx x.y.z
+nginx 1.2.3
